@@ -1,0 +1,21 @@
+.bbs {
+    border-bottom: 1px solid black;
+}
+
+h1 span {
+    color: red;
+}
+
+.thead-dark {
+    background-color: black;
+    color: white;
+}
+
+h2 span {
+    font-size: 1.25em;
+}
+
+iframe {
+    margin-top: 3vh;
+    margin-bottom: 3vh;
+}
